@@ -1,0 +1,23 @@
+.container {
+    position: Fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 2% 4%;
+    background: rgba(0, 0, 0, 0.699);
+    user-select: none;
+    height: 40%;
+}
+
+.float {
+    float: left;
+    width: 100%;
+}
+
+.float2 {
+    float: top;
+    clear: both;
+}
+
+.button-letter {
+    text-align: center;
+}
